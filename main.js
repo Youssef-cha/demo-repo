@@ -1,1 +1,1 @@
-alert('main.js');
+alert('main.jss');
